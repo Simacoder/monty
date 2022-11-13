@@ -2,4 +2,8 @@
 
 ./C-mont
 
+*.swp*.vscode/
+
+./C-mont
+
 *.swp
